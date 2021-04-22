@@ -1,0 +1,35 @@
+{
+  "name": "fancy-login-signup-form",
+  "version": "1.0.0",
+  "description": "Fancy Animated login / sign up form with HTML, CSS and JavaScript",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fancy",
+    "animated",
+    "html",
+    "css",
+    "javascript",
+    "sign",
+    "up",
+    "sign",
+    "in"
+  ],
+  "author": "Azat Rahmanov",
+  "license": "ISC",
+  "dependencies": {
+    "gulp-cli": "^2.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssnano": "^1.1.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-uglify": "^3.0.2",
+    "yargs": "^7.1.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.14",
+    "gulp": "^4.0.2",
+    "gulp-livereload": "^4.0.2"
+  }
+}
